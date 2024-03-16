@@ -1,0 +1,84 @@
+body {
+    background-color: #607080;
+    color: white;
+    margin: 0;
+    font-family: Helvetica;
+}
+header {
+    background: #40A1FF;
+}
+
+.navbar-brand {
+    width: 180px;
+}
+
+.container-fluid{
+    padding-left:0 !important;
+    padding-right:0 !important;
+}
+
+.logo {
+    width: 100%;
+}
+
+.social {
+    padding-right: 1.5em;
+}
+
+h2 {
+    font-size: 3vh;
+}
+
+.carruselDiv {
+    background-color: #806f60;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.imag {
+    width: 91%;
+}
+
+label {
+    background-color: #0b6057;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.colorForm {
+    background-color: #38e0c7;
+}
+
+.tituloForm {
+    text-align: center;
+    background-color: #138174;
+    margin-left: 13px;
+    margin-right: 13px;
+}
+
+.subtitulo {
+    font-weight: bold;
+    font-size: 27px;
+}
+
+footer {
+    background-color: #40a1ff;
+}
+
+footer img {
+    width: 36px;
+}
+
+footer p {
+    font-size: 20px; 
+    margin-bottom: 0; 
+    margin-left: 20px;
+}
+
+.insta, .twitter {
+    margin-right: 10px;
+}

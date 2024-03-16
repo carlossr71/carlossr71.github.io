@@ -1,0 +1,64 @@
+body {
+    background-color: #607080;
+    color: white;
+    margin: 0;
+    font-family: Helvetica;
+    overflow-x: hidden;
+}
+header {
+    background: #40A1FF;
+}
+
+.navbar-brand {
+    width: 180px;
+}
+
+.container-fluid{
+    padding-left:0 !important;
+    padding-right:0 !important;
+}
+
+
+.logo {
+    width: 100%;
+}
+
+.social {
+    padding-right: 1.5em;
+}
+
+.experto {
+    font-size: 26px; 
+    background-color: #74746d;
+}
+
+.productos {
+    background-color: #806f60; 
+    text-align: center;
+}
+
+section {
+    background-color: #38e0c7;
+}
+
+.fotoCarlos {
+    width: 56%; 
+    border-radius: 50%;
+}
+
+footer {
+    background-color: #40a1ff;
+}
+footer p {
+    font-size: 20px; 
+    margin-bottom: 0; 
+    margin-left: 20px;
+}
+
+footer img {
+    width: 36px;
+}
+
+.insta, .twitter{
+    margin-right: 10px;
+}
